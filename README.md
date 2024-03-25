@@ -6,3 +6,4 @@ Author - Sudesh Mhamanakr
 This is a mini project, making my fundamentals strong.
 <br>
 Languages used - html, css, javascript
+resources - APNA COLLEGE
